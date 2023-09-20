@@ -31,6 +31,6 @@ We will play a storytelling game (description [here](https://en.wikipedia.org/w
     -   Resolve Merge conflicts
     -   Rewrite something about your partner's entry
 
-Repeat steps 3-4 untill the story is complete or you run out of time, whichever comes first
+Repeat steps 3-4 until the story is complete or you run out of time, whichever comes first
 
 **For more information use [Git tutorial on resolving conflicts](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/)**
